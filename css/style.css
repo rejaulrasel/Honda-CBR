@@ -26,3 +26,7 @@ button:hover h1 {
 	transform: translate(10px,10px);
 	transition: transform 1.5s ease-in-out;
 }
+
+.brand-bg{
+	background-image: linear-gradient(linen,rgb(224, 255, 250));
+}
