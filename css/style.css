@@ -14,3 +14,15 @@
 .grayscale-img {
 	filter: grayscale(100%);
 }
+.carousel-background{
+	background-image: linear-gradient(black,linen);
+}
+button:hover h1 {
+	color: pink;
+	transform: scale(1.2);
+	transition: transform 1.5s ease-in-out;
+}
+.carousel-item img:hover{
+	transform: translate(10px,10px);
+	transition: transform 1.5s ease-in-out;
+}
