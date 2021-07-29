@@ -1,4 +1,6 @@
-
+body{
+	margin: 0 auto;
+}
 .header-background {
 	background: #264653
 }
@@ -23,10 +25,9 @@ button:hover h1 {
 	transition: transform 1.5s ease-in-out;
 }
 .carousel-item img:hover{
-	transform: translate(10px,10px);
+	transform: translate(8px,8px);
 	transition: transform 1.5s ease-in-out;
 }
-
 .brand-bg{
 	background-image: linear-gradient(linen,rgb(224, 255, 250));
 }
