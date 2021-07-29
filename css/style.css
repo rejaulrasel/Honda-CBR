@@ -1,13 +1,19 @@
-body{
-    margin: 0;
+body {
+	margin: 0;
 }
 
-.header-background{
-    background: #264653
+.header-background {
+	background: #264653
 }
-.heading-part-margin{
-    margin: 150px 0 0;
+
+.heading-part-margin {
+	margin: 150px 0 0;
 }
-.bike-margin{
-    margin: 90px 0 50px;
+
+.bike-margin {
+	margin: 90px 0 50px;
+}
+
+.grayscale-img {
+	filter: grayscale(100%);
 }
