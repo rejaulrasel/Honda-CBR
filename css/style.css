@@ -14,7 +14,7 @@ body{
 }
 
 .grayscale-img {
-	filter: grayscale(100%);
+	filter: hue-rotate(100%);
 }
 .carousel-background{
 	background-image: linear-gradient(black,linen);
